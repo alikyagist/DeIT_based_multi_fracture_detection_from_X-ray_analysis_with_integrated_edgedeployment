@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+Pictures/
+Videos*
+*.lnk
+run3120.bat
+results/
+analysis.jpg
+normal.jpg
